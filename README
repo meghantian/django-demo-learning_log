@@ -1,0 +1,5 @@
+This is a Django project for a learning log website including user account management, error page etc.
+Styling: Bootstrap+django-bootstrap5
+Database: default sqlite
+
+
